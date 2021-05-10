@@ -24,7 +24,7 @@ body:before{
     font-family: 'Zen Dots', cursive;
     padding: 20px;
     padding-top: 40px;
-    font-size: 20px;
+    font-size: 100px;
     letter-spacing: 5px;
     /*color: #0e3742;*/
     color: rgb(31, 31, 31);
@@ -73,7 +73,7 @@ body:before{
         padding-top: 100px;
     }
     .center .bio_card
-    {   font-family: 'Courgette' ,cursive;
+    {   font-family: 'Roboto' ,cursive;
         font-size: 20px;
         padding: 10px;
         text-shadow: 0 0 10px #fff;
